@@ -21,7 +21,7 @@ $db_datas= select_all('offers');
 
 <div class="container">
     <h2>Action for test or check the result</h2>
-    <a href="city.php" class="btn btn-primary">insert Dummy Cities</a>
+    <a href="city.php" class="btn btn-primary">Insert Dummy Cities</a>
     <?php if(!empty($db_datas)):  ?>
     <a href="update_city.php" class="btn btn-primary">Update cities</a>
     <?php endif; ?>

@@ -12,8 +12,8 @@
 
 <div class="container">
   <h2>Action for test or check the result</h2>
-  <a href="xmltojson.php" class="btn btn-primary">convert xml to json</a>
-  <a href="api/list.php" class="btn btn-secondary">list view</a> 
+  <a href="xmltojson.php" class="btn btn-primary">Convert XML to JSON</a>
+  <a href="api/list.php" class="btn btn-secondary">Formatted View</a>
 </div>
 
 </body>
