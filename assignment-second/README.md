@@ -9,7 +9,7 @@ How to run the application:
 ----------------------------
 * git clone the repository in root directory
 * create a new db named 'assignment_2' and import 'assignment_2.sql'
-* run this url: 'http://localhost/assignment-project/assignment-second/' on browser
+* run this url: 'http://localhost/api_assignments/assignment-second/' on browser
 * Click on 'Convert XML to JSON' button which loads xml data through endpoint convert in json and store in 'data_table'
 * Click on 'Formatted View' button which display json data on the browser as output
 

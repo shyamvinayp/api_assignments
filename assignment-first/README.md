@@ -10,7 +10,7 @@ How to run the application:
 ----------------------------
 * git clone the repository in root directory
 * create a new db named 'assignment_1' and import 'assignment_1.sql'
-* run this url: 'http://localhost/assignment-project/assignment-first/' on browser
+* run this url: 'http://localhost/api_assignments/assignment-first/' on browser
 * Click on 'Insert Dummy Cities' button which insert dummy data in offers table
 * Click on 'Update Cities' button which display the updated data on browser
 * Click on 'Check Api' button which display the api data in json format
